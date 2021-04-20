@@ -1,4 +1,4 @@
-ratings:
+details:
   namespace: student60-bookinfo-uat
   image: ghcr.io/songkran-060/bookinfo-details
   tag: uat

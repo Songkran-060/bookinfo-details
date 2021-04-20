@@ -1,4 +1,4 @@
-ratings:
+details:
   namespace: student60-bookinfo-dev
   image: ghcr.io/songkran-060/bookinfo-details
   tag: dev
